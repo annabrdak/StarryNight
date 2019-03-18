@@ -1,0 +1,25 @@
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\StarryNight.exe.config
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\StarryNight.exe
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\StarryNight.pdb
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\App.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.cache
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.lref
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.baml
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.g.resources
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.Properties.Resources.resources
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.csproj.GenerateResource.cache
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.csproj.CoreCompileInputs.cache
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.exe
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.pdb
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\Bee animation 1.png
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\Bee animation 2.png
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\Bee animation 3.png
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\bin\Debug\Bee animation 4.png
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\StarControl.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight_Content.g.cs
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\StarControl.baml
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.baml
+C:\Users\brdaka\Desktop\VisualStudio\StarryNight\StarryNight\obj\Debug\StarryNight.csprojAssemblyReference.cache
